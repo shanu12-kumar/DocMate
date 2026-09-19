@@ -1,0 +1,6 @@
+{
+  "name": "DocMate",
+  "description": "All Your PDF & Image Tools in One Place. Convert, compress, edit and manage your files quickly, easily and securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
